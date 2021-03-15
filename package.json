@@ -1,0 +1,13 @@
+{
+  "name": "thecommandislongerthanthecode",
+  "version": "1.0.0",
+  "description": "An Extremely lightweight Node CLI tool.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Gaiser",
+  "license": "ISC",
+  "bin": "cli.js"
+}
