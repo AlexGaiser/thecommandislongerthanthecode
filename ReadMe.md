@@ -9,7 +9,7 @@ An extremely lightweight Node CLI tool. So leightweight in fact the command to r
 To install the CLI tool run the following command in your terminal:
 
 ```bash
-npm i -g thecommandislongerthanthecode
+$ npm i -g thecommandislongerthanthecode
 ```
 This will install the tool and add the command to your terminal path. 
 
