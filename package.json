@@ -6,7 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "CLI",
+    "Lightweight",
+    "Fast",
+    "Small Bundle",
+    "Fun"
+  ],
   "author": "Alex Gaiser",
   "license": "ISC",
   "bin": "cli.js"
