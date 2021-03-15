@@ -1,4 +1,4 @@
-## The Command I Longer Than The Code CLI Tool
+## The Command Is Longer Than The Code: A CLI Tool
 
 ### Description
 
