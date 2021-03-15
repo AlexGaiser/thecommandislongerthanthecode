@@ -16,6 +16,9 @@
     "Small Bundle",
     "Fun"
   ],
+  "repository": {
+    "url": "https://github.com/AlexGaiser/thecommandislongerthanthecode"
+  },
   "author": "Alex Gaiser",
   "license": "ISC",
   "bin": "cli.js"
